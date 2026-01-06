@@ -1,0 +1,21 @@
+# Environment variables / secrets
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Enviornments
+venv/
+.env/
+.venv/
